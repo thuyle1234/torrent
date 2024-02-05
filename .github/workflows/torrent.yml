@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "Windows 11"
+  comment: "Windows 11 "
+  url: "https://drive.massgrave.dev/en-us_windows_11_consumer_editions_version_23h2_updated_jan_2024_x64_dvd_c6335b0e.iso"
+  file_name: "en-us_windows_11_consumer_editions_version_23h2_updated_jan_2024_x64_dvd_c6335b0e.iso"
+  piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
   create:
